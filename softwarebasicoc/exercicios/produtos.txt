@@ -1,0 +1,4 @@
+10;Teclado;89.90
+15;Mouse;45.50
+20;Monitor;899.99
+30;Celular;1000.00
