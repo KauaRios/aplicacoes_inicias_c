@@ -1,0 +1,22 @@
+OBS1:Um processo é um programa em execução cujos recursos sao administrados pelo sistema operacional.
+
+OBS2:Um processo pode chamar subprocessos eles sao chamados de processos filhos.
+
+OBS3:Em sistemas operacionais baseados em unix o fork é utilizado para criar processos filhos 
+
+OBS4:Todo processo possui alocação de MEMORIA diferente mesmo que seja processo filho 
+
+OBS5:As alocações de memorias são chamadas de PID
+
+OBS6:Todo processo possui: 
+
+Código do programa - Instruções executadas pelo programa; 
+Dados/Variaveis - São atributos e informações do programa;
+Heap - é o processo feito pelo sistema operacional para alocar memoria dinamicamente;
+Pilha - Chamadas de funções em variaveis locais para executar uma tarefa, ou seja, os threads
+
+OBS7:Os threads é um fluxo de execução dentro de um processo 
+
+OBS8:Quando temos varios threads a serem executados podem fazer o conceito de paralelismo quando temos multiplos nucleos disponiveis 
+
+OBS9:Em sistemas operacionais e em programação com threads a particula mutex significa exclusão multipla, onde uma thread fica agurdando a outra thread finalizar para ser executado 
